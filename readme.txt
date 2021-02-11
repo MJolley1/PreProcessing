@@ -6,3 +6,6 @@ As an example, please download the two DEMO Images to view how it impacts tracer
 These images are exactly 1s apart and can are used in the processing of velocity with KLT-IV.
 
 Simply open the app, select the image file you wish to process, and the app will walk you through the possible options and will produce graphics for comparison.
+
+REQUIRES:
+MATLAB Runtime
