@@ -7,5 +7,7 @@ These images are exactly 1s apart and can are used in the processing of velocity
 
 Simply open the app, select the image file you wish to process, and the app will walk you through the possible options and will produce graphics for comparison.
 
+Alternatively, simply download the ZIP file containing the script and example imagery and run it using Matlab
+
 REQUIRES:
 MATLAB Runtime
